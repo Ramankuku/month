@@ -1,0 +1,4 @@
+[2026-03-28 13:14:43]: MarketInsight.components.agent: INFO: 26: Agent Initiated Successfully
+[2026-03-28 13:14:43]: langfuse: WARNING: 291: Authentication error: Langfuse client initialized without public_key. Client will be disabled. Provide a public_key parameter or set LANGFUSE_PUBLIC_KEY environment variable. 
+[2026-03-28 13:14:43]: __main__: INFO: 85: App Initiated Successfully
+[2026-03-28 13:14:43]: asyncio: DEBUG: 633: Using proactor: IocpProactor
